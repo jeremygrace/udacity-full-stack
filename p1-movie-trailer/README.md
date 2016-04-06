@@ -52,5 +52,5 @@ Like the fresh_tomatoes.py file, there are comments and citations included in th
 
 ```
 If you run into any issues or find yourself scratching your head, 
-feel free to contact me at jeremy.grace01@gmail.com. 
+feel free to contact me. 
 ```
