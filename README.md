@@ -5,13 +5,13 @@ Full Stack Web Developer Nanodegree
 
 This repository showcases my work for [Udacity's Full Stack Web Developer Nanodegree](http://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
-###Project Lineup
+####Project Lineup
 
 - p1:  Movie Trailer Website
 - p2:  Tournament Results
 - p3:  Item Catalog
 
-###Courses
+####Courses
 
 - Programming Foundations with Python: Learn Object-Oriented Programming //
 [details](http://www.udacity.com/course/programming-foundations-with-python--ud036)
@@ -26,5 +26,10 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 [details](http://www.udacity.com/course/authentication-authorization-oauth--ud330)
 
 
+
+```
+If you run into any issues or simply have a question, please 
+feel free to contact me at jeremy.grace@outlook.com. 
+```
 
 
