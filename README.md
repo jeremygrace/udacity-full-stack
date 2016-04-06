@@ -1,6 +1,6 @@
 #Full Stack Web Developer Nanodegree
 
-##About
+###About
 
 This repository showcases my work for [Udacity's Full Stack Web Developer Nanodegree](http://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
