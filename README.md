@@ -7,19 +7,23 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 
 ###Project Lineup
 
-- P1:  Movie Trailer Website
-- P2:  Tournament Results
-- P3:  Item Catalog
+- p1:  Movie Trailer Website
+- p2:  Tournament Results
+- p3:  Item Catalog
 
-###Courses Completed
+###Courses
 
-- [Programming Foundations with Python: Learn Object-Oriented Programming](http://www.udacity.com/course/programming-foundations-with-python--ud036)
+- Programming Foundations with Python: Learn Object-Oriented Programming //
+[details](http://www.udacity.com/course/programming-foundations-with-python--ud036)
 
-- [Intro to Relational Databases](http://www.udacity.com/course/intro-to-relational-databases--ud197)
+- Intro to Relational Databases //
+[details](http://www.udacity.com/course/intro-to-relational-databases--ud197)
 
-- Full Stack Foundations: Build a data-driven web app with Python
+- Full Stack Foundations: Build a data-driven web app with Python // 
+[details](http://www.udacity.com/course/full-stack-foundations--ud088)
 
-- Authentication & Authorization: OAuth
+- Authentication & Authorization: OAuth //
+[details](http://www.udacity.com/course/authentication-authorization-oauth--ud330)
 
 
 
