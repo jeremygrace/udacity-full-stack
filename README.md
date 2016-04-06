@@ -1,5 +1,4 @@
 #Full Stack Web Developer Nanodegree
----
 
 ##About
 
