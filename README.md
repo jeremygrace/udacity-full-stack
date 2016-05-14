@@ -7,21 +7,21 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 
 ####Project Lineup
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p1   |  Movie Trailer Website**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p1   |    &nbsp;&nbsp;Movie Trailer Website**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p2   |  Build a Portfolio**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p2   |    &nbsp;&nbsp;Build a Portfolio**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p3   |  Mulit User Blog**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p3   |    &nbsp;&nbsp;Mulit User Blog**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p4   |  Tournament Results**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p4   |    &nbsp;&nbsp;Tournament Results**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p5   |  Item Catalog**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p5   |    &nbsp;&nbsp;Item Catalog**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p6   |  Neighborhood Map**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p6   |    &nbsp;&nbsp;Neighborhood Map**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p7   |  Design a Game**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p7   |    &nbsp;&nbsp;Design a Game**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p8   |  Linux Server Configuration**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **p8   |    &nbsp;&nbsp;Linux Server Configuration**
 
 
 ####Courses
