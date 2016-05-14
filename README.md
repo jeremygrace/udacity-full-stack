@@ -6,15 +6,22 @@ Full Stack Web Developer Nanodegree
 This repository showcases my work for [Udacity's Full Stack Web Developer Nanodegree](http://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ####Project Lineup
-  
-    p1     Movie Trailer Website
-    p2     Build a Portfolio
-    p3     Mulit User Blog
-    p4     Tournament Results
-    p5     Item Catalog
-    p6     Neighborhood Map
-    p7     Design a Game
-    p8     Linux Server Configuration
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p1   |  Movie Trailer Website **
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p2   |  Build a Portfolio **
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p3   |  Mulit User Blog **
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p4   |  Tournament Results **
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p5   |  Item Catalog **
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p6   |  Neighborhood Map **
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p7   |  Design a Game **
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** p8   |  Linux Server Configuration **
 
 
 ####Courses
