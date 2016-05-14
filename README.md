@@ -33,8 +33,11 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 
 
 
+
+***
 ```
 If you run into any issues or simply have a question, please feel free to contact me at jeremy.grace@outlook.com. 
 ```
+
 
 
