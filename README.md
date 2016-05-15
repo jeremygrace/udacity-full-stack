@@ -26,6 +26,8 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 
 ####Courses
 
+- Intro to HTML and CSS // [details](http://www.udacity.com/course/intro-to-html-and-css--ud304)
+
 - Programming Foundations with Python: Learn Object-Oriented Programming //
 [details](http://www.udacity.com/course/programming-foundations-with-python--ud036)
 
