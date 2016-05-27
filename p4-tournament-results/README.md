@@ -1,12 +1,15 @@
-![Swiss icon](img/swiss-tournament.jpg)
-p4: Tournament Results
+![Swiss icon](img/swiss-tournament.jpg) 
+p4 &nbsp;Tournament Results
 ====
 
 In fulfillment of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 
+<br  />
+<br />
+
 ###About
 
-![Python icon](img/Sm-pylogo.png)  &nbsp;&nbsp;&nbsp;&nbsp; ![Postgresql icon](img/postgresql.png)
+![Python icon](img/Sm-pylogo.png)  &nbsp;&nbsp; ![Plus](img/plus.png) &nbsp;&nbsp; ![Postgresql icon](img/postgresql.png)
  
 This project includes a Python module that uses a PostgreSQL database to keep track of players and matches in a Swiss-system tournament.
 
@@ -15,6 +18,9 @@ This project includes a Python module that uses a PostgreSQL database to keep tr
 A Swiss-system tournament is a specific kind of sports tournament in which players are not eliminated when they lose a match. Rather, players are paired in each round with oppoents having (approximately) the same win-loss record.
 ```
 
+
+<br />
+<br />
 >
 ###Some Assembly Required
 
@@ -28,6 +34,7 @@ You can initiate this project with [Vagrant](https://www.vagrantup.com/) and [Vi
 * `python tournament_test.py`
 
 
+<br />
 
 ####Expected Output
 
@@ -45,6 +52,9 @@ vagrant@vagrant-ubuntu-trusty-32:/vagrant/tournament$ python tournament_test.py
 8. After one match, players with one win are paired.
 Success!  All tests pass!
 ```
+<br />
+
+<br />
 
 If you run into any issues or find yourself scratching your head, 
 feel free to contact me. 
