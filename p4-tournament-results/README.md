@@ -28,10 +28,12 @@ A Swiss-system tournament is a specific kind of sports tournament in which playe
 You can initiate this project with [Vagrant](https://www.vagrantup.com/) and [Virtual Box](https://www.virtualbox.org/) by executing the following from the command line:
 
 * `vagrant up` inside the `vagrant/` directory
-* `vagrant ssh`
-* `cd /vagrant/tournament`
-* `psql -f tournament.sql`
-* `python tournament_test.py`
+* Then, the following in order :
+
+        $ vagrant ssh
+        $ cd /vagrant/tournament
+        $ psql -f tournament.sql
+        $ python tournament_test.py
 
 
 <br \>
