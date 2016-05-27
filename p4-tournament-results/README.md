@@ -21,8 +21,8 @@ A Swiss-system tournament is a specific kind of sports tournament in which playe
 
 <br \>
 <br \>
->
-###Some Assembly Required
+
+####Some Assembly Required
 
 
 You can initiate this project with [Vagrant](https://www.vagrantup.com/) and [Virtual Box](https://www.virtualbox.org/) by executing the following from the command line:
