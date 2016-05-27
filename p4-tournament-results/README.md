@@ -4,8 +4,8 @@ p4 &nbsp;Tournament Results
 
 In fulfillment of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 
-<br  />
-<br />
+<br  \>
+
 
 ###About
 
@@ -19,8 +19,8 @@ A Swiss-system tournament is a specific kind of sports tournament in which playe
 ```
 
 
-<br />
-<br />
+<br \>
+<br \>
 >
 ###Some Assembly Required
 
@@ -34,7 +34,7 @@ You can initiate this project with [Vagrant](https://www.vagrantup.com/) and [Vi
 * `python tournament_test.py`
 
 
-<br />
+<br \>
 
 ####Expected Output
 
@@ -52,9 +52,11 @@ vagrant@vagrant-ubuntu-trusty-32:/vagrant/tournament$ python tournament_test.py
 8. After one match, players with one win are paired.
 Success!  All tests pass!
 ```
-<br />
+<br \>
 
-<br />
+<br \>
 
+---
+######Help
 If you run into any issues or find yourself scratching your head, 
 feel free to contact me. 
