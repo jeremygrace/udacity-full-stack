@@ -1,7 +1,11 @@
 ![Play icon](img/icon_play.png)
 p1 &nbsp;Movie Trailer Website
-=====
+====
+
 In fulfillment of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+
+<br \>
+
 
 ### First things, First
 
@@ -26,6 +30,7 @@ However, I personally prefer to work within a Mac OS **Terminal**. By navigating
     $ python [ filename ].py
 
 <br \>
+
 <br \>
 
 ### What's under the hood
@@ -73,11 +78,16 @@ __Terminal__
 
 <br \>
 
+<br \>
+
+
 If you would like to run other operations, you can comment out the last two lines of this file and type the appropriate code underneath.
 
 Like the fresh_tomatoes.py file, there are comments and citations included in this document.
 
 <br \>
+
+<br \> 
 
 ---
 
