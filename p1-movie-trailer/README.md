@@ -80,10 +80,9 @@ __Terminal__
 
 <br \>
 
+> If you would like to run other operations, you can comment out the last two lines of this file and type the appropriate code underneath.
 
-If you would like to run other operations, you can comment out the last two lines of this file and type the appropriate code underneath.
-
-Like the fresh_tomatoes.py file, there are comments and citations included in this document.
+> > Like the fresh_tomatoes.py file, there are comments and citations included in this document.
 
 <br \>
 
