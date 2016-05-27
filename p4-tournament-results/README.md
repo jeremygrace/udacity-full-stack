@@ -1,9 +1,12 @@
+![Swiss icon](img/swiss-tournament.jpg)
 p4: Tournament Results
 ====
 
 In fulfillment of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 
 ###About
+
+![Python icon](img/Sm-pylogo.png)  &nbsp;&nbsp;&nbsp;&nbsp; ![Postgresql icon](img/postgresql.png)
  
 This project includes a Python module that uses a PostgreSQL database to keep track of players and matches in a Swiss-system tournament.
 
