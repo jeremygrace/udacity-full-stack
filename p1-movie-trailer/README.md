@@ -1,3 +1,4 @@
+![Play icon](img/icon_play.png)
 p1 &nbsp;Movie Trailer Website
 =====
 In fulfillment of Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
@@ -8,7 +9,7 @@ In order to properly run this Movie Trailer Website, you will need to first make
 
 <br \>
 
-#### Python
+![Python icon](img/Sm-pylogo.png)
 
 If you don't already have [Python 2](https://www.python.org/downloads/release/python-2710) installed on your computer, you can use the link to download and install it now. This program was created using the latest Python 2.7 version (Python 2.7.10). Running this with Python 3 could possibly cause some unexpected issues.
 
