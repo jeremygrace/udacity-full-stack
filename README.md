@@ -24,7 +24,7 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p8`**    &nbsp;&nbsp;Linux Server Configuration
 
 
-####Courses
+####Coursework `completed`
 
 - Intro to HTML and CSS // [details](http://www.udacity.com/course/intro-to-html-and-css--ud304)
 
