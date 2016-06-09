@@ -35,7 +35,7 @@ However, I personally prefer to work within a Mac OS **Terminal**. By navigating
 
 ### What's under the hood
 ---
-In the folder `scripts`, you'll notice the following files:
+In the directory  `main`, you'll notice the following files:
 
 + entertainment_center.py
 + fresh_tomatoes.py
@@ -70,7 +70,7 @@ __Terminal__
 
     *Note: Python doesn't come preinstalled on Windows machines so you must first install a version in order to run python in Cmd.*
 
-* Navigate to the `scripts` directory and type:
+* Navigate to the `main` directory and type:
 
         $ python entertainment_center.py
 
