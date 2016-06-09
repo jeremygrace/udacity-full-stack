@@ -62,7 +62,7 @@ __IDLE__
 
 * To run this program, open this .py file in IDLE.
 * Click 'Run' on the navigation bar and then 'Run Module'.
-* Then, the program should generate a HTML file (i.e. _fresh_tomatoes.html_, seen above) where you can view the movies and watch each movie trailer.
+* Then, the program should generate a HTML file (i.e. _serendipityX_media.html_, seen above) where you can view the movies and watch each movie trailer.
 
 __Terminal__
 
@@ -74,7 +74,7 @@ __Terminal__
 
         $ python entertainment_center.py
 
-* Press Enter and a new `fresh_tomatoes.html` will be generated.
+* Press Enter and a new `serendipityX_media.html` will be generated.
 
 <br \>
 
