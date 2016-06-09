@@ -14,7 +14,7 @@ main_page_head = '''
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>J's Fav - The Best Movie Trailers</title>
+    <title>Serendipity X Media</title>
 
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
@@ -112,10 +112,13 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#"><i>J's Fav | Best Movie Trailers<i/></a>
+            <a class="navbar-brand" href="#"><i>Serendipity Xperience Media<i/></a>
           </div>
         </div>
       </div>
+    </div>
+    <div class="container">
+      <h2>Featured Movies</h2>
     </div>
     <div class="container">
       {movie_tiles}
@@ -157,7 +160,7 @@ def create_movie_tiles_content(movies):
 
 def open_movies_page(movies):
     # Create or overwrite the output file
-    output_file = open('fresh_tomatoes.html', 'w')
+    output_file = open('serendipity_X.html', 'w')
 
     # Replace the movie tiles placeholder generated content
     rendered_content = main_page_content.format(
