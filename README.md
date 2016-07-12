@@ -1,3 +1,5 @@
+
+![Udacity](img/udacity_logo.png)
 Full Stack Web Developer Nanodegree
 ====
 
