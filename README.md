@@ -3,30 +3,24 @@
 Full Stack Web Developer Nanodegree
 ====
 
-###About
+### About
 
-This repository showcases my work for [Udacity's Full Stack Web Developer Nanodegree](http://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+Prior to specializing in Data Science, I spent some time learning the basic engineering skills of Front-End and Back-End web developers. This repository showcases my selective work for [Udacity's Full Stack Web Developer Nanodegree](http://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
-####Project Lineup
+#### Project Lineup
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p1`**     &nbsp;&nbsp;Movie Trailer Website
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p1`**     &nbsp;&nbsp; Movie Trailer Website
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p2`**      &nbsp;&nbsp;Build a Portfolio
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p2`**      &nbsp;&nbsp; Build a Portfolio
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p3`**    &nbsp;&nbsp;Mulit User Blog
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p4`**    &nbsp;&nbsp; Tournament Results
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p4`**    &nbsp;&nbsp;Tournament Results
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p6`**    &nbsp;&nbsp; Neighborhood Map
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p5`**    &nbsp;&nbsp;Item Catalog
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p6`**    &nbsp;&nbsp;Neighborhood Map
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p7`**    &nbsp;&nbsp;Design a Game
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p8`**    &nbsp;&nbsp;Linux Server Configuration
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **`p8`**    &nbsp;&nbsp; Linux Server Configuration
 
 
-####Coursework `completed`
+#### Coursework `completed`
 
 - Intro to HTML and CSS // [details](http://www.udacity.com/course/intro-to-html-and-css--ud304)
 
@@ -36,7 +30,7 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 - Intro to Relational Databases //
 [details](http://www.udacity.com/course/intro-to-relational-databases--ud197)
 
-- Full Stack Foundations: Build a data-driven web app with Python // 
+- Full Stack Foundations: Build a data-driven web app with Python //
 [details](http://www.udacity.com/course/full-stack-foundations--ud088)
 
 - Authentication & Authorization: OAuth //
@@ -47,8 +41,4 @@ This repository showcases my work for [Udacity's Full Stack Web Developer Nanode
 
 ---
 
-If you run into any issues or simply have a question, please feel free to contact me at jeremy.grace@outlook.com. 
-
-
-
-
+If you run into any issues or simply have a question, please feel free to contact me at jeremy.grace@outlook.com.
